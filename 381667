@@ -1,0 +1,25 @@
+*{
+  margin:0;
+  padding:0;
+  }
+html{
+  height:100%;
+  }
+body{
+background-image:url('https://api.vvhan.com/api/mobil.girl');
+  height:100%;
+  }
+.mom{
+  width:600px;
+  height:80px;
+  line-height:100px;
+  text-align:center;
+  font-size:40px;
+  border-width:5px;
+  border-style:dashed;
+  border-color:rgb(200, 0, 255);
+  position:relative; left:50%;
+  margin-left:-300px; top:50%;
+  margin-top:-50px;
+  color:rgb(255, 0, 55);
+  }
