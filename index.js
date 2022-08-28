@@ -43,9 +43,9 @@ theArray[40]="悲伤才念情，寂寞才说爱。";
 theArray[41]="三月的雨天，刺骨的寒冷。";
 theArray[42]="擦肩而过，谁为谁而留恋。";
 theArray[43]="你走过多少条街、会想起多少次我呢。";
-伤得彻底，才会放得彻底。";
+theArray[44]="伤得彻底，才会放得彻底。";
 function ranFun()
 {
- return parseInt(Math.random()*43);
+ return parseInt(Math.random()*44);
 }
 document.write(theArray[ranFun()]);
